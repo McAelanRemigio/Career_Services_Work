@@ -1,0 +1,15 @@
+
+*.R linguist-language=R
+*.Rmd linguist-language=R
+*.r linguist-language=R
+
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+*.md linguist-documentation
+
+*.csv linguist-vendored
+*.xlsx linguist-vendored
+*.txt linguist-vendored
+*.html linguist-vendored
+*.pdf linguist-vendored
