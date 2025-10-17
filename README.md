@@ -1,7 +1,5 @@
 # SDSU Career Services Analytics
 
-# 📊 SDSU Career Services Analytics
-
 **Author:** McAelan Remigio  
 **Role:** Operations & Resources Associate (Internal Analyst)  
 **Languages:** R & Python  
